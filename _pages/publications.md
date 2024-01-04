@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Work in progress
+======
+"L’Esportisation : un processus socio-économique de l’industrie vidéoludique", work in progress
 
-{% include base_path %}
+"Réforme du bac, moins d’inégalité ? Une analyse quantitative de la réussite au baccalauréat des lycées français", with M. Teissier, work in progress
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+"Fundraising for the e-sports team", with F. Lefebvre, A. Berard, P. Almeida Couto, work in progress
+
+"Vers une américanisation des business schools française ? : une analyse quantitative", work in progress

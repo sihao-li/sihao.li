@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 1"
+title: "L3 : ESH IVSE"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023
+venue: "IONIS, Bachelor 3"
+date: 2024
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Syllabus
 ======
+[Lien](https://drive.google.com/file/d/19X2oYl4s4TVfC2RSpb5CjoKvhGLiByXV/view?usp=sharing) 
 
-Heading 2
+Dispo
 ======
+[Lien](https://drive.google.com/file/d/17GvP7AUzEbV2jR9lNyDfObONKRkPQjCv/view?usp=sharing) 
 
-Heading 3
+Exercice
 ======
+[Lien](https://drive.google.com/file/d/17ahHZ3E-NmwiDAArFaQOviVk3K6qXtuQ/view?usp=sharing) 
+
+Texte pour l'exercice :
+
+Davidovici-Nora, M. & Bourreau, M. (2012). Les marchés à deux versants dans l'industrie des jeux vidéo. Réseaux, 173-174, 97-135. https://doi.org/10.3917/res.173.0097 
+
+![texte](/images/texte.png)

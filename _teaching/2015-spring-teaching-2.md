@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "M2 : Marché JVSE"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024
+venue: "IONIS, Master 2"
+date: 2024
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Syllabus
 ======
+[Lien](https://drive.google.com/file/d/1KcsF5fh1rl6mXBJC00eWVdrEJzEbDAOJ/view?usp=sharing) 
 
-Heading 2
+Dispo
 ======
-
-Heading 3
-======
+[Lien](https://drive.google.com/file/d/1AY0-ypf4gq5ZC8MX72BzjmInrQo_ID1_/view?usp=sharing) 
