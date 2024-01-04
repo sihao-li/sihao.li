@@ -13,7 +13,7 @@ Prior to my current endeavors, I served as a Teaching Assistant at Lycée Suger 
 
 Short CV
 ======
-* M.Sc. in Network industries and the digital economy - 2023/2025
+M.Sc. in Network industries and the digital economy - 2023/2025
 Université Paris Dauphine-PSL/Institut Polytechnique de Paris
 
 M.Res. in Economics - 2022/2023
