@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024
 venue: "IONIS, Master 2"
-date: 2024
+date: 2024-01-01
 location: "Paris, France"
 ---
 
