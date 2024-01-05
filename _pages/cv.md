@@ -7,11 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Keynes, histoire, politique et (macro)economie
 ======
 ![seminaire](/images/seminaire.png)
+
 Keynes, est-ce IS-LM ? Stimuler la demande, est-ce la clef de voûte d’une pensée magique ? C’est évidemment parce que les réponses à ces questions trop souvent posées sont négatives qu’il convient, pour quiconque appréciant l’économie, de se pencher sur la pensée du « père » de la Macroéconomie moderne. A une époque où bien des crises décrites par Keynes et ses disciples se produisent, précisément à cause de l’abandon et de la déformation de son message, il est de bons alois de se poser des questions cruciales : Comment faire de la Macroéconomie aujourd’hui ? Peut-on faire de la théorie économique aujourd’hui hors du corpus néolibéral dominant ? Comment renouveler la politique économique pour retrouver de la stabilité, dans et hors des crises ? Ce sont les questions que nous proposons d’explorer en ce mois de Mars 2023 à l’ENS Paris Saclay : Discuter la Macroéconomique, repenser l’économie française, l’économie européenne, repenser la théorie et la méthode économique, à l’ombre des défis que nos sociétés affrontent au XXIe siècle et à la lumière de Keynes et de ses successeurs.
 
 Organisateur : Lucas Fournier, Si Hao Li
