@@ -17,10 +17,10 @@ M.Sc. in Network industries and the digital economy - 2023/2025
 <br/>Université Paris Dauphine-PSL/Institut Polytechnique de Paris
 
 M.Res. in Economics - 2022/2023
-<br/>ENS Paris Saclay
+<br/>École normale supérieure Paris-Saclay
 
 Normalien - 2022/2025
-<br/>ENS Paris-Saclay
+<br/>École normale supérieure Paris-Saclay
 
 B.Sc. in Economics - 2019/2022
 <br/>Université Paris-Cité
