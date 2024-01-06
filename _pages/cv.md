@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Seminaire Keynes"
-permalink: /cv/
+permalink: /seminaire/
 author_profile: true
 redirect_from:
   - /resume
