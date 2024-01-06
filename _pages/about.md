@@ -11,19 +11,12 @@ I am an economics student (a normalien) at the École Normale Supérieure Paris-
 
 Prior to my current endeavors, I served as a Teaching Assistant at Lycée Suger in Saint-Denis. Additionally, I was a Research Assistant at Labex ICCA (Campus Condorcet), working under the supervision of Fabrice Rochelandet. In this role, I engaged in a Contingent Valuation project.
 
-Short CV
-======
-M.Sc. in Network industries and the digital economy - 2023/2025
-<br/>_Université Paris Dauphine-PSL/Institut Polytechnique de Paris_
+## Current positions
 
-M.Res. in Economics - 2022/2023
-<br/>_École normale supérieure Paris-Saclay_
+* Research assistant at CREST (ENSAE/X) 
+  * Supervisor: Samuel Coavoux
+  * Natural Language Processing - Computational social science
 
-Normalien - 2022/2025
-<br/>_École normale supérieure Paris-Saclay_
-
-B.Sc. in Economics - 2019/2022
-<br/>_Université Paris-Cité_
-
-B.A. in Geography - 2019/2022
-<br/>_Université Paris-Cité_
+* Lecturer of Economics of cultural industries, IONIS (since 2023)
+* Co-editor, Regards Croisés sur l'Economie - RCE (since 2023).
+* Normalien & Graduate Student in Economics, _Ecole Normale Supérieure Paris-Saclay_ & _Université Paris Dauphine-PSL_ & _Institut Polytechnique de Paris_
