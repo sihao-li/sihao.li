@@ -25,4 +25,4 @@ Texte pour l'exercice :
 
 Davidovici-Nora, M. & Bourreau, M. (2012). Les marchés à deux versants dans l'industrie des jeux vidéo. Réseaux, 173-174, 97-135. https://doi.org/10.3917/res.173.0097 
 
-![texte](sihao.li/images/texte.png)
+![texte](./images/texte.png)
