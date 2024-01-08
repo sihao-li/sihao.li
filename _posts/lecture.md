@@ -1,7 +1,7 @@
 ---
 title: 'Compte rendu : La macroéconomie pour tous : Une approche pluraliste de Nicolas Piluso'
 date: 2024-01-08
-permalink: /posts/macroéconomie-pour-tous
+permalink: /posts/macroeconomie-pour-tous
 tags:
   - Macroéconomie
   - Manuel 
