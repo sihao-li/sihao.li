@@ -1,14 +1,12 @@
 ---
-title: 'Discussion avec Dominique Plihon (USPN) sur la finance verte '
-date: 2020-01-01
+title: 'Discussion avec Dominique Plihon (USPN) sur la finance verte' S. Li, C. Jolivel, B. Marlhens
+date: 2021-06-30
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - Finance verte
   - Tragédie des horizons 
 ---
 
-Discussion avec Dominique Plihon (USPN) sur la finance verte - Si Hao, Corentin, Benoit - 2020
-======
 > Pouvez-vous vous présentez brièvement : quel a été votre parcours scolaire et professionnel ?
 
 Ma fonction actuelle est d’être professeur émérite à Paris 13 où j’enseignais avant. Je me suis occupé de formations comme un master banque finance et j’ai fait de la recherche, et je continue de faire de la recherche sur les thématiques de la finance. Ces dernières années je me suis intéressé au financement de la transition écologique et sociale, et au rôle de la finance dans le système économique actuel : Est-ce que la finance telle qu'elle fonctionne actuellement peut répondre aux problèmes écologiques ?
