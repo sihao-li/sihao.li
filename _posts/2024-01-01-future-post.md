@@ -2,13 +2,15 @@
 title: 'Compte rendu : La macroéconomie pour tous : Une approche pluraliste de Nicolas Piluso'
 date: 2024-01-07
 permalink: /posts/2024/01
+excerpt_separator: <!--more-->
+toc: true
 tags:
   - Macroéconomie
   - Manuel 
 ---
 
 Je tiens à exprimer ma gratitude envers Nicolas Piluso pour m'avoir gracieusement envoyé son ouvrage, lequel j'ai lu avec un intérêt soutenu. 
-
+<!--more-->
 Dans "_La macroéconomie pour tous_", N. Piluso réussit à injecter une dose d'originalité bienvenue dans le domaine souvent redondant des manuels de macroéconomie. À la différence des manuel standards dans ce champ, incarnés par les ouvrages d’O. Blanchard, de G. Mankiw, de P. Krugman, ou encore le plus ancien P. Samuelson, N. Piluso parvient à se distinguer. Son approche n'est pas seulement originale, mais elle témoigne aussi d'une ambition notable celle rendre la macroéconomie accessible à tous. Son approche comparative et moderne, à jour des évolutions récentes dans ce domaine, tranche nettement avec les enseignements parfois désuets des cours de macroéconomie de premier cycle. N. Piluso intègre des concepts avancés tels que les modèles de cycles économiques réels (RBC), les mises à jour de la courbe de Phillips, et l'approche des déséquilibres de façon pédagogique. Ce qui distingue particulièrement son travail est sa perspective pluraliste. Au lieu de s'en tenir à une seule perspective, il entreprend une exploration comparative qui confronte une multitude d'approches. Cette méthodologie offre aux lecteurs une compréhension plus riche et nuancée de la macroéconomie, faisant de son livre une ressource précieuse pour tous ceux, novices ou initiés, désireux de saisir la complexité et la dynamique de cette discipline.
 
 ## Contenu
