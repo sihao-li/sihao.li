@@ -2,6 +2,8 @@
 title: "Discussion avec Dominique Plihon (USPN) sur la finance verte. S. Li, C. Jolivel, B. Marlhens"
 date: 2021-06-30
 permalink: /posts/2012/08/blog-post-4/
+excerpt_separator: <!--more-->
+toc: true
 tags:
   - Finance verte
   - Tragédie des horizons 
@@ -10,7 +12,7 @@ tags:
 > Pouvez-vous vous présentez brièvement : quel a été votre parcours scolaire et professionnel ?
 
 Ma fonction actuelle est d’être professeur émérite à Paris 13 où j’enseignais avant. Je me suis occupé de formations comme un master banque finance et j’ai fait de la recherche, et je continue de faire de la recherche sur les thématiques de la finance. Ces dernières années je me suis intéressé au financement de la transition écologique et sociale, et au rôle de la finance dans le système économique actuel : Est-ce que la finance telle qu'elle fonctionne actuellement peut répondre aux problèmes écologiques ?
-
+<!--more-->
 > Vous êtes expert sur les questions de finance verte. Qu’est-ce qui vous a amené à  étudier ces thématiques.
 
 Je m’y suis dans un premier temps intéressé, en tant que citoyen mais aussi en tant qu’activiste car, comme vous l’avez dit dans un de vos mails, je suis membre au sein du conseil scientifique de l’ATTAC, à la question du climat et du changement climatique. Comme par ailleurs j’ai étudié les questions de finance j’ai fait le lien entre ces deux thématiques. C’est un sujet qui est énorme. Je me méfie aussi beaucoup de l’appellation « finance verte ». C’est un terme qui peut porter à confusion et dont il faut discuter. Je ne le récuse pas tout de suite mais j’en suis très méfiant car un certain nombre d’acteurs financiers et non financiers mettent derrière ce terme des choses que je n’approuve pas nécessairement, qui me semblent critiquable et ne vont pas dans le sens de la transition. 
