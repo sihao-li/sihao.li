@@ -18,5 +18,6 @@ title: "Teaching"
     - Emmanuel Buisson-Fenet, Marion Navarro, (2018). La microéconomie en pratique
     - https://www.alternatives-economiques.fr/lentreprise-une-boite-noire/00031080#:~:text=C'est%20pourquoi%20certains%20disent,pour%20donner%20ceux%20qui%20sortent.
     - Ménard, C. (2003). Économie néo-institutionnelle et politique de la concurrence les cas des formes organisationnelles hybrides. Économie rurale, 277(1), 45-60.
+    - Ménard, C. (2010). Oliver E. Williamson: Des organisations aux institutions. Revue d'économie politique, 120(3), 421-439.
     
 
