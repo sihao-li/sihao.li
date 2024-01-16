@@ -13,10 +13,11 @@ title: "Teaching"
 - Le marché JVSE : une approche pluridisplinaire
   - [Syllabus](https://drive.google.com/file/d/1KcsF5fh1rl6mXBJC00eWVdrEJzEbDAOJ/view?usp=sharing) 
   - [Diapo](https://drive.google.com/file/d/1AY0-ypf4gq5ZC8MX72BzjmInrQo_ID1_/view?usp=sharing)
-  - Recommandation lecture :
+  - Recommandation lecture (Introduction et Chapitre 1) :
     - Paris, T. (2010). Des industries culturelles aux industries créatives: un changement de paradigme salutaire?. Tic&société, 4(2).
     - Emmanuel Buisson-Fenet, Marion Navarro, (2018). La microéconomie en pratique
     - https://www.alternatives-economiques.fr/lentreprise-une-boite-noire/00031080#:~:text=C'est%20pourquoi%20certains%20disent,pour%20donner%20ceux%20qui%20sortent.
+    - Brousseau, E. (1989). L'approche néoinstitutionnelle des coûts de transaction. Revue française d'économie, 4(4), 123-166.
     - Ménard, C. (2003). Économie néo-institutionnelle et politique de la concurrence les cas des formes organisationnelles hybrides. Économie rurale, 277(1), 45-60.
     - Ménard, C. (2010). Oliver E. Williamson: Des organisations aux institutions. Revue d'économie politique, 120(3), 421-439.
     
