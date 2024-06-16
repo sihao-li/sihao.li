@@ -15,4 +15,3 @@ Work in progress
 
 "_The Impact and Strategy of Fundraising in the E-Sports Industry_", with F. Lefebvre, A. Berard, P. Almeida Couto, work in progress
 
- [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
