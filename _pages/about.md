@@ -13,6 +13,10 @@ Prior to my current endeavors, I served as a Teaching Assistant at Lycée Suger 
 
 ## Current positions
 
+* Soon - Research assistant at UCLouvain
+  * Supervisor: Paul Belleflamme 
+  * Industrial Organization
+    
 * Research assistant at CREST (ENSAE/X) 
   * Supervisor: Samuel Coavoux
   * Natural Language Processing - Computational social science
@@ -20,3 +24,4 @@ Prior to my current endeavors, I served as a Teaching Assistant at Lycée Suger 
 * Lecturer of Economics of cultural industries, IONIS (since 2023)
 * Co-editor, Regards Croisés sur l'Economie - RCE (since 2023).
 * Normalien & Graduate Student in Economics, _Ecole Normale Supérieure Paris-Saclay_ & _Université Paris Dauphine-PSL_ & _Institut Polytechnique de Paris_
+* Bsc Economics, Bsc Geography, Bsc Management (2019-2022)
