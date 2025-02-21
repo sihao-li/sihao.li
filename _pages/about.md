@@ -16,13 +16,9 @@ Prior to my current endeavors, I served as a Teaching Assistant at Lycée Suger 
 * Research assistant at CORE/LIDAM (UCLouvain)
   * Supervisor: Paul Belleflamme 
   * Industrial Organization
-    
-* Research assistant at CREST (ENSAE/X) 
-  * Supervisor: Samuel Coavoux
-  * Natural Language Processing - Computational social science
 
-* Lecturer of History of economic thought, Université Paris 1 Panthéon-Sorbonne (since 2024)
-* Lecturer of Economics of cultural industries, IONIS (since 2023)
+* Teacher Assistant, Université Paris 1 Panthéon-Sorbonne (since 2024)
+* Lecturer, IONIS (since 2023)
 * Co-editor, Regards Croisés sur l'Economie - RCE (since 2023).
 * Normalien & Graduate Student in Economics, _Ecole Normale Supérieure Paris-Saclay_ & _Université Paris Dauphine-PSL_ & _Institut Polytechnique de Paris_
 * Bsc Economics, Bsc Geography, Bsc Management (2019-2022)
